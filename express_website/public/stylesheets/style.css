@@ -1,0 +1,18 @@
+body{
+	padding-top: 50px;
+}
+.jumbotron{
+	background: url(../images/back2.jpeg) no-repeat center center;
+	-webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+
+}
+
+footer{
+	background: #f4f4f4;
+	height: 40px;
+	text-align: center;
+	margin-top:30px;
+}
